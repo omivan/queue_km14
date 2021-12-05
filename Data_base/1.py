@@ -2,7 +2,7 @@
 def parsing('name'):
     return date
 
-# Ivan
+# Ivan O
 {
     def add(message):
         data.add_info('''''', )
